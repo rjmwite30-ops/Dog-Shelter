@@ -8,3 +8,7 @@ Many dogs suffer from poor life conditions, which is why we aim to create more o
 • CDC Healthy Pets, Healthy Dogs: Public health advice on hygiene, safe feeding, preventing disease spread, and preparing before choosing or adopting a dog.
 • Morris Animal Foundation Dog Health Tips: 10 actionable tips focusing on daily exercise, weight management, annual checkups, and early detection of health concerns.
 • Pawlicy Advisor Ultimate Guide: Offers 39 essential tips on nutrition, toxic foods, and everyday wellness for pet parents.
+# Dog Essentials
+Dog Foods: A specially formulated and balanced diet created for consumption by dogs. 
+Dog Cleaning: The practice of maintaining a dog’s physical hygiene, cleanliness, and overall comfort.
+Dog sheltering: A mix of private non-profit animal sanctuaries, rescue organizations, and local government-managed city pounds.
